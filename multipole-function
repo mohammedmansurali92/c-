@@ -40,3 +40,4 @@ int module=a%b;
 cout<<"Module="<<module<<endl;
 
 }
+#this is correct funtion for second line
